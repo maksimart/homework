@@ -34,7 +34,7 @@ int main()
 
 	//№3
 	//int max,digit1, digit2, digit3, digit4, digit5, digit6, digit7;
-	//cout << "enter 7 number:";
+	//cout << "enter 7 number:"<<endl;
 	//cin >> digit1 >> digit2 >> digit3 >> digit4 >> digit5 >> digit6 >> digit7;
 	//max = 0;
 	//if (max < digit1)max = digit1;
