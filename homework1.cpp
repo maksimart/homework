@@ -5,13 +5,13 @@ int main()
 {
     //%1
     int t;
-    cout << "how many seconds?" << endl;
+    cout << "quantity seconds?" << endl;
     cin >> t;
     cout << t / 3600 << " hours " << (t % 3600 / 60) << " minuts " << (t % 3600 % 60) << " seconds";
 
     //%2
-    float money, b;
-    int a;
+    float money;
+    int a,b;
     cout << "enter a monetary unit" << endl;
     cin >> money;
     a = money;
