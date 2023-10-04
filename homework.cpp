@@ -33,15 +33,16 @@ int main()
 	//cout << nam1;
 
 	//№3
-	int max,digit1, digit2, digit3, digit4, digit5, digit6, digit7;
-	cin >> digit1 >> digit2 >> digit3 >> digit4 >> digit5 >> digit6 >> digit7;
-	max = 0;
-	if (max < digit1)max = digit1;
-	if (max < digit2)max = digit2;
-	if (max < digit3)max = digit3;
-	if (max < digit4)max = digit4;
-	if (max < digit5)max = digit5;
-	if (max < digit6)max = digit6;
-	if (max < digit7)max = digit7;
-	cout << max;
+	//int max,digit1, digit2, digit3, digit4, digit5, digit6, digit7;
+	//cout << "enter 7 number:";
+	//cin >> digit1 >> digit2 >> digit3 >> digit4 >> digit5 >> digit6 >> digit7;
+	//max = 0;
+	//if (max < digit1)max = digit1;
+	//if (max < digit2)max = digit2;
+	//if (max < digit3)max = digit3;
+	//if (max < digit4)max = digit4;
+	//if (max < digit5)max = digit5;
+	//if (max < digit6)max = digit6;
+	//if (max < digit7)max = digit7;
+	//cout << max;
 }
